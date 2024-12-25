@@ -5,7 +5,7 @@ async function main() {
      * Connection URI. Update <username>, <password>, and <your-cluster-url> to reflect your cluster.
      * See https://docs.mongodb.com/ecosystem/drivers/node/ for more details
      */
-    const uri = "mongodb+srv://<username>:<password>@<your-cluster-url>/sample_airbnb?retryWrites=true&w=majority";
+    const uri = "mongodb+srv://<bossdiva>:<Girlgamer818>@cluster0.ltuif.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
     /**
      * The Mongo Client you will use to interact with your database
